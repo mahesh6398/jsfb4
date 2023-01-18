@@ -1,0 +1,35 @@
+.App{
+  background-color: skyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 8%;
+  padding: 20px;
+  border-radius: 8px;
+}
+input{
+  width:30vh;
+  padding: 6px;
+  margin: 5px;
+  border-radius: 5px;
+  border-style: none;
+}
+button{
+border-radius: 5px;
+background-color: blueviolet;
+padding: 5px;
+color:ghostwhite;
+font-size: 17px;
+margin: 5px;
+width:31vh;
+}
+
+h1{
+  color: ghostwhite;
+}
+body{
+  background-color: rgb(219, 216, 216);
+}
